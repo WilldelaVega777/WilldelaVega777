@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WilldelaVega777 - Willde la Vega, Developer for 30 yrs. specialized in .NET, NestJS, Angular and React.
+- 👀 I’m interested in ... Disrupting with Technology, React 3F, ThreeJS, Animated 3D Components and all that is innovation in the FrontEnd.
+- 🌱 I’m currently learning ... Advanced React.
+- 💞️ I’m looking to collaborate on ... Any project that includes the use of a 3D UI.
+- 📫 How to reach me ... WilldelaVega777@gmail.com
